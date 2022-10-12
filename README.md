@@ -1,4 +1,4 @@
-# Power-Bi-creat-report
+# Power-Bi-create-report
 Prepare Data in Power BI Desktop
 
 Load Data in Power BI Desktop
